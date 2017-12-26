@@ -11,5 +11,4 @@ Dr. Aubrey Moore, a UOG entomologist, has been using iNaturalist quite a bit lat
 * When Moore is emailed photos of insects for identification, these are posted to an iNaturalist project called *Insects of Micronesia* and a link 
 to the posted images and identification is emailed back to the client.
 * The *Insects of Micronesia* project is used UOG students in Moore's entomology courses to document and help identify insects they collect. 
-* iNaturalist projects can be used for insect surveys. For example, UOG biologists Dr. Wei and Dr. Feidler, had students mapping coconut rhinoceros beetle damage 
-as part of an ecology course. recently, iNaturalist was used to map the spread of the greater banded hornet, a newly arrived invasive species.
+* iNaturalist projects can be used for insect surveys. For example iNaturalist was used to map the spread of the greater banded hornet, a newly arrived invasive species. In another exampe, UOG biologists Dr. Wei and Dr. Feidler, had students mapping coconut rhinoceros beetle damage as part of an ecology course. 
