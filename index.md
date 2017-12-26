@@ -18,4 +18,6 @@ to the identified images is emailed back to the client. The project is publicly 
 * The *Insects of Micronesia* project is used by UOG students in Moore's entomology courses to document and help identify insects they collect. 
 * iNaturalist projects can be used for insect surveys. For example iNaturalist was used to map the [spread of the greater banded hornet](https://www.inaturalist.org/projects/vespa-tropica-on-guam), a newly arrived invasive species. In another example, students in Dr. Curt Feidler's environmental biology course used an [iNaturalist project to map coconut rhinoceros beetle damage](https://www.inaturalist.org/projects/uog-bi-100l-coconut-tree-survey-sp-16). 
 
-![](vespa_tropica_map.png)
+<p align="center">
+<img src="vespa_tropica_map.png">
+</p>
