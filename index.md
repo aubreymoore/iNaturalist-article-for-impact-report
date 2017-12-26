@@ -1,6 +1,6 @@
 # What's that bug?: There's an app for that.
 
-![vespa_tropica.png]
+![](vespa-tropica.png)
 
 Want to know the name of that strange insect that just landed in front of you? There's free cell phone app for that
 called [iNaturalist](https://www.inaturalist.org/). 
