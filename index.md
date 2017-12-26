@@ -1,7 +1,9 @@
 # What's that bug?: There's an app for that.
 
-<center><img src="vespa_tropica.png"></center>
-![](species.png)
+<p align="center">
+<img src="vespa_tropica.png">
+<img src="species.png">
+</p>
 
 Want to know the name of that strange insect that just landed in front of you? There's free cell phone app for that
 called [iNaturalist](https://www.inaturalist.org/). 
