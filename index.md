@@ -4,7 +4,7 @@ Want to know the name of that strange insect that just landed in front of you? T
 called [iNaturalist](https://www.inaturalist.org/). 
 
 iNaturalist allows you to use your phone to snap pictures of any animals or plants and upload them to an online database connected to a global network
-of nature lovers who are willing to help you identify it. Locations and times of the observations are recorded automatically.
+of nature lovers who are willing to help you identify them. Locations and times of the observations are recorded automatically.
 
 Dr. Aubrey Moore, a UOG entomologist, has been using iNaturalist quite a bit lately for several different uses:
 
